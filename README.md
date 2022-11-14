@@ -1,5 +1,4 @@
 # The Amazing (Programming) Race!
-### Dominic Gasperini
 
 ## Program Summary:
 This program tests the speed and compile times 9 different programming languages! It keeps the competition fair between the race by giivng each language its own thread
