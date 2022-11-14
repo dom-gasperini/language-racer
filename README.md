@@ -20,11 +20,3 @@ to execute on. The test that each language must pass in the the Sieve of Eratost
 ## Citations:
 - https://www.geeksforgeeks.org/        (for pretty much all language specific questions)
 - https://rosettacode.org/wiki/Sieve_of_Eratosthenes    (used a reference for good style and syntax for each language)
-
-## Self-Grade:
-### Main Program: 35 pts
-### Other Programming Language: 90 pts (9 languages * Good Usage (10pts))
-### Command Line Arguments: 18 pts (9 languages * Good Usage (2 pts))
-### Style & Documentation: 0 pts
-### Video: 0 pts
-### Lifespan of Project: 0 pts
