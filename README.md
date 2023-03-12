@@ -8,6 +8,7 @@ to execute on. The test that each language must pass in the the Sieve of Eratost
 - C++
 - Python
 - Rust
+- Java
 - Julia
 - R
 - Go
